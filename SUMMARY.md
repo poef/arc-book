@@ -18,5 +18,5 @@
 * [arc\events](arcevents.md)
 * [arc\config](arcconfig.md)
 * [arc\grants](arcgrants.md)
-* arc\prototype
+* [arc\prototype](arcprototype.md)
 
