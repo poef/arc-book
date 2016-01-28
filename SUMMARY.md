@@ -8,7 +8,7 @@
    * arc\route
 * arc\html
 * arc\xml
-* arc/cache
+* arc\cache
 * [arc/base](arcbase.md)
 * arc/events
 * arc/config
