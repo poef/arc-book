@@ -1,6 +1,3 @@
-arc\path
-========
-
 This component provides a few utility methods that ease working with filesystem-like paths. A path is defined as a string of names seperated by the '/' character. The '/' cannot be escaped in the string.
 
 \arc\path::clean
