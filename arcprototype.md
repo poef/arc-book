@@ -1,5 +1,3 @@
-arc/prototype
-=============
 
 This component adds prototypes to PHP, with all the javascript features like Object.extend, Object.assign, Object.freeze and Object.observe. It also has support for setters and getters, defined per property.
 
