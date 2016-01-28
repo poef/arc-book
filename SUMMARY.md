@@ -4,4 +4,5 @@
 * [arc/web](chapter1.md)
 * arc/html
 * arc/xml
+* arc/cache
 
