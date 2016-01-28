@@ -1,8 +1,6 @@
 \arc\cache
 =========
 
-This component contains utility methods to ease working with PHP hashes. 
-
 \arc\cache::proxy
 -----------------
     (\arc\cache\Proxy) \arc\cache::proxy( (mixed) $target, (mixed) $cacheControl )
