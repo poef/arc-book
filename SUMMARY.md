@@ -15,7 +15,7 @@
    * [arc\hash](archash.md)
    * [arc\context](arccontext.md)
    * [arc\lambda](arclambda.md)
-* arc\events
+* [arc\events](arcevents.md)
 * arc\config
 * arc\grants
 * arc\prototype
