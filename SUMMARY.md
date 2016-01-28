@@ -14,7 +14,7 @@
    * [arc\tree](arctree.md)
    * [arc\hash](archash.md)
    * [arc\context](arccontext.md)
-   * arc\lambda
+   * [arc\lambda](arclambda.md)
 * arc\events
 * arc\config
 * arc\grants
