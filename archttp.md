@@ -1,5 +1,3 @@
-# arc\http
-
 This component provides a very basic http client using PHP stream handling.
 
 \arc\http::get
