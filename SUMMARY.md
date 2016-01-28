@@ -6,7 +6,7 @@
 * arc/xml
 * arc/cache
 * arc/base
-* arc/config
 * arc/events
+* arc/config
 * arc/grants
 
