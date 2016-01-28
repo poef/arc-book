@@ -10,6 +10,7 @@
 * arc\xml
 * arc\cache
 * [arc\base](arcbase.md)
+   * arc\path
 * arc\events
 * arc\config
 * arc\grants
