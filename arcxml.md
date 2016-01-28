@@ -1,6 +1,3 @@
-arc/xml
-=======
-
 This component provides a unified xml parser and writer. The writer allows for readable and correct xml in code, not using 
 templates. The parser is a wrapper around both DOMDocument and SimpleXML. 
 
