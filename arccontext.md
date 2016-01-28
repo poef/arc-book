@@ -1,6 +1,3 @@
-\arc\context
-=========
-
 This component implements a stackable dependency injection container.
 
 Basic usage
