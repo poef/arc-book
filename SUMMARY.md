@@ -11,7 +11,7 @@
 * arc\cache
 * [arc\base](arcbase.md)
    * [arc\path](arcpath.md)
-   * arc\tree
+   * [arc\tree](arctree.md)
    * arc\hash
    * arc\context
    * arc\lambda
