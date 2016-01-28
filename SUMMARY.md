@@ -5,6 +5,7 @@
    * arc/http
    * arc/url
    * arc/noxss
+   * arc/route
 * arc/html
 * arc/xml
 * arc/cache
