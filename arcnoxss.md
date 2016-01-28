@@ -1,6 +1,3 @@
-arc/noxss
-=========
-
 `arc/noxss` is an XSS attack detection and prevention class. It contains two methods, detect and prevent.
 The `detect()` method must be called at the start of handling any request, e.g. in your front controller or router.
 The `prevent()` method must be called at the end of handling any request.
