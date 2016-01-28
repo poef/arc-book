@@ -8,7 +8,7 @@
    * [arc\route](arcroute.md)
 * [arc\html](archtml.md)
 * [arc\xml](arcxml.md)
-* arc\cache
+* [arc\cache](arccache.md)
 * [arc\base](arcbase.md)
    * [arc\path](arcpath.md)
    * [arc\tree](arctree.md)
