@@ -10,7 +10,7 @@
 * arc\xml
 * arc\cache
 * [arc\base](arcbase.md)
-* arc/events
+* arc\events
 * arc/config
 * arc/grants
 * arc/prototype
