@@ -11,7 +11,7 @@
 * arc\cache
 * [arc\base](arcbase.md)
 * arc\events
-* arc/config
+* arc\config
 * arc/grants
 * arc/prototype
 
