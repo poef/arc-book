@@ -16,7 +16,7 @@
    * [arc\context](arccontext.md)
    * [arc\lambda](arclambda.md)
 * [arc\events](arcevents.md)
-* arc\config
+* [arc\config](arcconfig.md)
 * arc\grants
 * arc\prototype
 
