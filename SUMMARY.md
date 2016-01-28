@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [arc/web](chapter1.md)
+   * arc/http
    * arc/url
        * arc/http
 * arc/html
