@@ -13,7 +13,7 @@
    * [arc\path](arcpath.md)
    * [arc\tree](arctree.md)
    * [arc\hash](archash.md)
-   * arc\context
+   * [arc\context](arccontext.md)
    * arc\lambda
 * arc\events
 * arc\config
