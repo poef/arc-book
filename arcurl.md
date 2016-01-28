@@ -1,6 +1,3 @@
-arc/url
-=======
-
 This component allows you to easily create and modify URL's. e.g.
 
 ```php5
