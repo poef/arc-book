@@ -13,6 +13,7 @@
    * arc\path
    * arc\tree
    * arc\hash
+   * arc\context
 * arc\events
 * arc\config
 * arc\grants
