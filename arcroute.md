@@ -1,6 +1,3 @@
-arc\route
-=========
-
 This component provides very basic URL routing. You could use it like this:
 
     $config = [
