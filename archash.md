@@ -1,6 +1,3 @@
-\arc\hash
-=========
-
 This component contains utility methods to ease working with PHP hashes. 
 
 \arc\hash::get
