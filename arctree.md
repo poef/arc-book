@@ -1,6 +1,3 @@
-arc/tree
-========
-
 This component provides a few methods to work on a filesystem like tree.
 Except for expand all methods expect a tree node object as input. The tree node must have the following properties:
 - parentNode - a reference to a parentNode or null.
