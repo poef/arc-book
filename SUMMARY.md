@@ -5,7 +5,7 @@
    * [arc\http](archttp.md)
    * [arc\url](arcurl.md)
    * [arc\noxss](arcnoxss.md)
-   * arc\route
+   * [arc\route](arcroute.md)
 * arc\html
 * arc\xml
 * arc\cache
