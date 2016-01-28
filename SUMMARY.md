@@ -5,4 +5,5 @@
 * arc/html
 * arc/xml
 * arc/cache
+* arc/base
 
