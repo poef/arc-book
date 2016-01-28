@@ -1,6 +1,3 @@
-arc/lambda
-==========
-
 This component makes it easy create ad-hoc objects, similar to lambda functions or closures. These objects also follow a prototypical inheritance scheme similar to smalltalk and javascript.
 
 Simple example:
