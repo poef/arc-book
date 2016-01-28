@@ -10,7 +10,7 @@
 * arc\xml
 * arc\cache
 * [arc\base](arcbase.md)
-   * arc\path
+   * [arc\path](arcpath.md)
    * arc\tree
    * arc\hash
    * arc\context
