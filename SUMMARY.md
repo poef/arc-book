@@ -9,4 +9,5 @@
 * arc/events
 * arc/config
 * arc/grants
+* arc/prototype
 
