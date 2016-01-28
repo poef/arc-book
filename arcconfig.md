@@ -1,6 +1,3 @@
-\arc\config
-===========
-
 ARC\Config allows you to set values in a tree structure that 'trickle down'. This means that if you set 'color' to 'blue' in a parent node, every child node can get the configured value for 'color' and it will return 'blue'. Unless another node in between has redefined the value.
 
 A concrete code example:
