@@ -6,4 +6,5 @@
 * arc/xml
 * arc/cache
 * arc/base
+* arc/config
 
