@@ -14,6 +14,7 @@
    * arc\tree
    * arc\hash
    * arc\context
+   * arc\lambda
 * arc\events
 * arc\config
 * arc\grants
