@@ -1,6 +1,3 @@
-arc/html
-========
-
 This component provides a unified html parser and writer. The writer allows for readable and correct html in code, not using templates. The parser is a wrapper around both DOMDocument and SimpleXML. 
 
 The parser and writer also work on fragments of HTML. The parser also makes sure that the output is identical to the input.
