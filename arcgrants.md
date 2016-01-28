@@ -1,5 +1,3 @@
-# arc\grants
-
 How it works
 ------------
 
