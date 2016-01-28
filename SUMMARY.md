@@ -7,4 +7,5 @@
 * arc/cache
 * arc/base
 * arc/config
+* arc/events
 
