@@ -1,6 +1,3 @@
-arc/events
-==========
-
 This component implements an event system very similar to events in modern browsers. Events have a seperate capture and listen phase. Events are fired and listened to on a path - like a filesystem path - instead of an object in the DOM. 
 
 In the capture phase listeners are called in order starting with listeners on the root path '/'. Then - if the event has not been cancelled - in the listen phase listeners are called in the reverse order - with the root path being called last.
