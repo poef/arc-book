@@ -11,6 +11,7 @@
 * arc\cache
 * [arc\base](arcbase.md)
    * arc\path
+   * arc\tree
 * arc\events
 * arc\config
 * arc\grants
