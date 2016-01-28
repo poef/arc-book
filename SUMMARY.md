@@ -4,7 +4,7 @@
 * [arc\web](chapter1.md)
    * [arc\http](archttp.md)
    * arc\url
-   * arc/noxss
+   * arc\noxss
    * arc/route
 * arc/html
 * arc/xml
