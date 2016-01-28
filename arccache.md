@@ -1,6 +1,3 @@
-\arc\cache
-=========
-
 \arc\cache::proxy
 -----------------
     (\arc\cache\Proxy) \arc\cache::proxy( (mixed) $target, (mixed) $cacheControl )
