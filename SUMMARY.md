@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [arc/web](chapter1.md)
-   * arc/http
+   * [arc/http](archttp.md)
    * arc/url
    * arc/noxss
    * arc/route
