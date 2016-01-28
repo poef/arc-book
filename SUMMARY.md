@@ -12,6 +12,7 @@
 * [arc\base](arcbase.md)
    * arc\path
    * arc\tree
+   * arc\hash
 * arc\events
 * arc\config
 * arc\grants
