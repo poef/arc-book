@@ -9,7 +9,7 @@
 * arc/html
 * arc/xml
 * arc/cache
-* arc/base
+* [arc/base](arcbase.md)
 * arc/events
 * arc/config
 * arc/grants
