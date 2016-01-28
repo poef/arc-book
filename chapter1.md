@@ -1,6 +1,3 @@
-# arc/web
-
-
 arc/web contains
 ------------------
 - [url](arc-url.md): create and parse urls and query arguments
